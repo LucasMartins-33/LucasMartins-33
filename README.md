@@ -2,7 +2,7 @@
 
 
 - 📖 Fazendo faculdade de Análise e Desenvolvimento de Sistemas
-- 🌱 Atualmente estudando Java e html5/css3
+- 🌱 Atualmente estudando Java
 - 😄 Pronouns: Ele/dele
   
 <div>
